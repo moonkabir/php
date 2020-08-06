@@ -1,0 +1,1 @@
+load balancing diye server er request load manage kora r data manage kora
